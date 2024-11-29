@@ -36,10 +36,6 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 
-## ✨
-
-
-
 ## 🧠 Prompts
 - 🤖 1. Prompts de roteiro no `chagpt`
 - 🤖 2. Prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
@@ -79,4 +75,4 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 <br/><br/>
 <p>
 
-⌨️ com 💜 por [Lilian BR](https://github.com/LiliBR-tech)
+⌨️ com 💜 por [Lilian BR](https://github.com/LiliBR-tech)✨
